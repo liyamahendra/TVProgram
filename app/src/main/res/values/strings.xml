@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TV Program</string>
+
+    <string name="demo_channel_name">Demo Channel</string>
+
+    <string name="lbl_display_company_name">Company Name:</string>
+    <string name="lbl_value_company_name">MyCompany Longford, Co.</string>
+    <string name="lbl_display_address">Address:</string>
+    <string name="lbl_value_address">Longford, \nRepublic of Ireland</string>
+    <string name="lbl_display_phone">Phone number:</string>
+    <string name="lbl_value_phone">+353 888 999 111</string>
+</resources>

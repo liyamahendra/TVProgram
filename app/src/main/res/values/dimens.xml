@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallest">4dp</dimen>
+    <dimen name="smaller">8dp</dimen>
+    <dimen name="small">12dp</dimen>
+    <dimen name="big">16dp</dimen>
+    <dimen name="bigger">20dp</dimen>
+    <dimen name="biggest">24dp</dimen>
+    <dimen name="large">28dp</dimen>
+    <dimen name="larger">32dp</dimen>
+    <dimen name="largest">36dp</dimen>
+</resources>
